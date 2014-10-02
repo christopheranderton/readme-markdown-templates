@@ -1,11 +1,9 @@
 Deluxive State Project Guidelines v1.0.0 > Part 1 > Typography on the Web
 ___
 
-## Guidelines for Typography on the Web
-
-
+# Guidelines for Typography on the Web
 Deluxive State project guidelines for web typography in our projects.
-___
+
 
 ## Glossary
 [[Back To Top]](#jump-to-section)
