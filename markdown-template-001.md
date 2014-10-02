@@ -1,7 +1,8 @@
 # Deluxive State Font Collections 
 ---
-
 A collection of fonts and font stacks for use with different projects.
+
+## Jump to Section
 
 ## General Guidelines 
 ---
@@ -37,7 +38,7 @@ http://cssfontstack.com/
 
 ### Notes
 ---
-[[Back To Top]](#general-guidelines)
+[[Back To Top]](#jump-to-section)
 
  **Note 1** Recommended is to load 2 fonts from an external provider (like Google Fonts or Adobe Typekit) if neccessary. 
 
