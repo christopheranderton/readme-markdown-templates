@@ -1,4 +1,7 @@
-readme-markdown-templates
-=========================
+# MARKDOWN TEMPLATES
 
-A small set of README.md templates for coming projects.
+For fun and profit.
+
+## CONTENTS
+
+The Markdown is in another castle.
